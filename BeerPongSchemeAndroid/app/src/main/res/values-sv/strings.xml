@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beerpongturnering</string>
+    <string name="title_manage_teams">laginställningar</string>
+    <string name="title_home">Hem</string>
+    <string name="title_account">kontoinställningar</string>
+    <string name="teams">Lag</string>
+    <string name="account">Konto</string>
+    <string name="Add_a_team_name">Lägg till ett lag</string>
+    <string name="Choose_a_name">Bestäm ett namn för ditt lag</string>
+    <string name="Add_team_button">Lägg till</string>
+    <string name="logintext">Logga in för att se ditt konto</string>
+    <string name="Add_team_member">Lägg till lagmedlem</string>
+    <string name="teams_added">Skapade lag</string>
+    <string name="select_teams">Välj lag</string>
+    <string name="round">Rond</string>
+    <string name="exiting_tournament">Lämnar turneringen</string>
+    <string name="tournament_warning">Vill du verkligen lämna turneringen? All data kommer att förloras</string>
+    <string name="choosewinner">Vinnare</string>
+    <string name="not_logged_in">Du är inte inloggad</string>
+    <string name="error_add_teams">Du måste lägga till ett lagnamn och två medlemmar</string>
+    <string name="error_message_add_team">Fel</string>
+    <string name="add_team_name">Välj lagnamn</string>
+    <string name="add_team_member">Lägg till lagmedlem</string>
+    <string name="winner">vann turneringen</string>
+    <string name="tournament">Turnering</string>
+    <string name="home_text">Välkommen till Beer Pong Redemption</string>
+    <string name="play_button">Starta turneringen</string>
+    <string name="administrator_string">Administratör</string>
+    <string name="select_two_teams">Du måste välja minst två lag</string>
+    <string name="error">Fel</string>
+    <string name="team">Lag</string>
+    <string name="errorauth">Något gick fel</string>
+    <string name="logincancel">login avbröts</string>
+    <string name="totalgames">Totala antalet matcher</string>
+    <string name="wongames">Vunna matcher</string>
+    <string name="lostgames">Förlorade matcher</string>
+    <string name="deleteteam">Radera lag</string>
+    <string name="deleteteamtext">Vill du verkligen radera detta lag?</string>
+
+</resources>

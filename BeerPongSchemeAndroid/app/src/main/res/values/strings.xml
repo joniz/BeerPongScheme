@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BeerPongSchemeAndroid</string>
+    <string name="title_home">Home</string>
+    <string name="title_manage_teams">Manage teams</string>
+    <string name="title_account">Account settings</string>
+    <string name="facebook_app_id">225177664875467</string>
+    <string name="fb_login_protocol_scheme">fb225177664875467</string>
+    <string name="teams">teams</string>
+    <string name="account">Account</string>
+    <string name="title_activity_add_team">AddTeamActivity</string>
+    <string name="Add_a_team_name">Add a team</string>
+    <string name="Choose_a_name">Choose a name for your beer pong team</string>
+    <string name="Add_team_button">Add team</string>
+    <string name="logintext">Log in to see your account</string>
+    <string name="Add_team_member">Add team members</string>
+    <string name="teams_added">Created teams</string>
+    <string name="select_teams">Select teams</string>
+    <string name="round">Round</string>
+    <string name="exiting_tournament">Exiting tournament</string>
+    <string name="tournament_warning">Do you really want to leave the tournament? All data will be lost</string>
+    <string name="choosewinner">Winner</string>
+    <string name="not_logged_in">You are not logged in</string>
+    <string name="error_add_teams">You must add two members and a team name</string>
+    <string name ="error_message_add_team">Error</string>
+    <string name="add_team_name">Choose team name</string>
+    <string name="add_team_member">Add team member</string>
+    <string name="winner">won the tournament</string>
+    <string name="tournament">Tournament</string>
+    <string name="home_text">Welcome to Beer Pong Redemption</string>
+    <string name="play_button">Start tournament</string>
+    <string name="administrator_string">Administrator</string>
+    <string name="select_two_teams">You must choose a minimum of two teams</string>
+    <string name="error">Error</string>
+    <string name="team">Team</string>
+    <string name="errorauth">There was an error</string>
+    <string name="logincancel">Login was cancelled</string>
+    <string name="hej">Total won games</string>
+    <string name="totalgames">Total number of games</string>
+    <string name="wongames">Won games</string>
+    <string name="lostgames">Lost games</string>
+    <string name="deleteteam">Delete team</string>
+    <string name="deleteteamtext">Do you really want to delete this team?</string>
+
+</resources>
